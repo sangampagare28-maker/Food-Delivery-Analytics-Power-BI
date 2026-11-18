@@ -51,8 +51,8 @@ To transform raw food delivery data into meaningful business insights through in
 Sangam Pagare
 Skills: MIS Reporting | Microsoft Excel | Power Query | Power BI | DAX | Data Analytics
 
-
 ## Dashboard Preview
 
-![Food Delivery Analytics Dashboard](Screenshots/Food_Delivery_Dashboard.png)
+![Food Delivery Analytics Dashboard](Food_Delivery_Dashboard.PNG.PNG)
+
   
