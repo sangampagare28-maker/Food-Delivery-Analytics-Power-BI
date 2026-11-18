@@ -1,3 +1,10 @@
+
+## Dashboard Preview
+
+![Food Delivery Analytics Dashboard](Screenshots/Food_Delivery_Dashboard.png)
+  
+
+
 # Food Delivery Analytics Dashboard | Power BI
 ## 1. Project Overview
 This project focuses on analyzing food delivery business performance using Microsoft Power BI.
