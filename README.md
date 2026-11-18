@@ -1,10 +1,3 @@
-
-## Dashboard Preview
-
-![Food Delivery Analytics Dashboard](Screenshots/Food_Delivery_Dashboard.png)
-  
-
-
 # Food Delivery Analytics Dashboard | Power BI
 ## 1. Project Overview
 This project focuses on analyzing food delivery business performance using Microsoft Power BI.
@@ -57,3 +50,9 @@ To transform raw food delivery data into meaningful business insights through in
 ## 9. Author
 Sangam Pagare
 Skills: MIS Reporting | Microsoft Excel | Power Query | Power BI | DAX | Data Analytics
+
+
+## Dashboard Preview
+
+![Food Delivery Analytics Dashboard](Screenshots/Food_Delivery_Dashboard.png)
+  
